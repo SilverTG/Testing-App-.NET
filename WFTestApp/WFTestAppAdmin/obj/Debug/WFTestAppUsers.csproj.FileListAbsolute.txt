@@ -1,0 +1,16 @@
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\bin\Debug\WFTestAppAdmin.exe.config
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\bin\Debug\WFTestAppAdmin.exe
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\bin\Debug\WFTestAppAdmin.pdb
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\bin\Debug\DBClasses.dll
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\bin\Debug\DBClasses.pdb
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppUsers.csproj.AssemblyReference.cache
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppUsers.csproj.SuggestedBindingRedirects.cache
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppAdmin.Properties.Resources.resources
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppUsers.csproj.GenerateResource.cache
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppUsers.csproj.CoreCompileInputs.cache
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppUsers.csproj.CopyComplete
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppAdmin.exe
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppAdmin.pdb
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppAdmin.TestingForm.resources
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppAdmin.ResultForm.resources
+C:\Users\SilverTG\Desktop\WFTestApp\WFTestAppAdmin\obj\Debug\WFTestAppAdmin.UserForm.resources

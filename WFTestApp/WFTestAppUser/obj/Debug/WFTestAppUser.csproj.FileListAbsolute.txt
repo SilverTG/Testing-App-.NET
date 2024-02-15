@@ -1,0 +1,11 @@
+D:\C#\NP\WFTestApp\WFTestAppUser\bin\Debug\WFTestAppUser.exe.config
+D:\C#\NP\WFTestApp\WFTestAppUser\bin\Debug\WFTestAppUser.exe
+D:\C#\NP\WFTestApp\WFTestAppUser\bin\Debug\WFTestAppUser.pdb
+D:\C#\NP\WFTestApp\WFTestAppUser\obj\Debug\WFTestAppUser.csproj.AssemblyReference.cache
+D:\C#\NP\WFTestApp\WFTestAppUser\obj\Debug\WFTestAppUser.csproj.SuggestedBindingRedirects.cache
+D:\C#\NP\WFTestApp\WFTestAppUser\obj\Debug\WFTestAppUser.Form1.resources
+D:\C#\NP\WFTestApp\WFTestAppUser\obj\Debug\WFTestAppUser.Properties.Resources.resources
+D:\C#\NP\WFTestApp\WFTestAppUser\obj\Debug\WFTestAppUser.csproj.GenerateResource.cache
+D:\C#\NP\WFTestApp\WFTestAppUser\obj\Debug\WFTestAppUser.csproj.CoreCompileInputs.cache
+D:\C#\NP\WFTestApp\WFTestAppUser\obj\Debug\WFTestAppUser.exe
+D:\C#\NP\WFTestApp\WFTestAppUser\obj\Debug\WFTestAppUser.pdb

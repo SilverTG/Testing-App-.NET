@@ -1,0 +1,12 @@
+D:\C#\NP\WFTestApp\DBClasses\bin\Debug\DBClasses.dll
+D:\C#\NP\WFTestApp\DBClasses\bin\Debug\DBClasses.pdb
+D:\C#\NP\WFTestApp\DBClasses\obj\Debug\DBClasses.csproj.AssemblyReference.cache
+D:\C#\NP\WFTestApp\DBClasses\obj\Debug\DBClasses.csproj.CoreCompileInputs.cache
+D:\C#\NP\WFTestApp\DBClasses\obj\Debug\DBClasses.dll
+D:\C#\NP\WFTestApp\DBClasses\obj\Debug\DBClasses.pdb
+C:\Users\SilverTG\Desktop\WFTestApp\DBClasses\bin\Debug\DBClasses.dll
+C:\Users\SilverTG\Desktop\WFTestApp\DBClasses\bin\Debug\DBClasses.pdb
+C:\Users\SilverTG\Desktop\WFTestApp\DBClasses\obj\Debug\DBClasses.csproj.AssemblyReference.cache
+C:\Users\SilverTG\Desktop\WFTestApp\DBClasses\obj\Debug\DBClasses.csproj.CoreCompileInputs.cache
+C:\Users\SilverTG\Desktop\WFTestApp\DBClasses\obj\Debug\DBClasses.dll
+C:\Users\SilverTG\Desktop\WFTestApp\DBClasses\obj\Debug\DBClasses.pdb
